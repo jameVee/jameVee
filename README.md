@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student KU80 - Kasetsart University Sriracha Campus
 ---------------------------------------------------
 
-I'm looking for a Data scientist intern position.
+I'm looking for a Data scientist and ML Engineer position.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Port](http://www.canva.com/design/DAFb2Ekbwm0/ZGgr1od1rQRPdZCCfOYC-w/view?utm_content=DAFb2Ekbwm0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+* 🖥️  See my portfolio at [My Port](https://www.canva.com/design/DAF5vUQaFZ0/nDqSaq4RTpoalfInS_Mb2A/edit?utm_content=DAF5vUQaFZ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * ✉️  You can contact me at [weerathep.r@ku.th](mailto:weerathep.r@ku.th)
 * 🧠  I'm learning AI and Quantum
 
