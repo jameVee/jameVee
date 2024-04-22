@@ -8,8 +8,8 @@ I'm looking for a Data scientist and ML Engineer position.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Port](https://www.canva.com/design/DAF5vUQaFZ0/nDqSaq4RTpoalfInS_Mb2A/edit?utm_content=DAF5vUQaFZ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* ✉️  You can contact me at [weerathep.r@ku.th](mailto:weerathep.r@ku.th)
-* 🧠  I'm learning AI and Quantum
+* ✉️  You can contact me at [weeratheprattanajaratkul@gmail.com](mailto:weerathep.r@ku.th)
+* 🧠  I'm learning Machine Learning.
 
 ### Skills
 
