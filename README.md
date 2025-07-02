@@ -5,7 +5,7 @@ Bachelor of Engineering (Computer Engineering)
 ---------------------------------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Port]([https://www.canva.com/design/DAGIpzt3SBM/iJoUgLLpFwzH3VJ7CWq0dQ/edit?utm_content=DAGIpzt3SBM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
+* 🖥️  See my portfolio at [My Port](https://www.canva.com/design/DAGIpzt3SBM/iJoUgLLpFwzH3VJ7CWq0dQ/edit?utm_content=DAGIpzt3SBM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * ✉️  You can contact me at [weeratheprattanajaratkul@gmail.com](mailto:weeratheprattanajaratkul@gmail.com)
 * 🧠  I'm interested in Machine Learning.
 
